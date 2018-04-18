@@ -22,9 +22,9 @@
   使用`hist(bins = XX)`函数，绘制直方图。  
   ![](https://github.com/michaellee666/work1/blob/master/a.png)
   ![](https://github.com/michaellee666/work1/blob/master/b.png)  
-  ![](https://github.com/michaellee666/work1/blob/master/a.png)
-  ![](https://github.com/michaellee666/work1/blob/master/a.png)  
-  ![](https://github.com/michaellee666/work1/blob/master/a.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/d.png)
+  ![](https://github.com/michaellee666/work1/blob/master/e.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/c.png)  
   使用`qqplot(df,line='45')`绘制qq图检验数据分布是否为正态分布。  
   
 
