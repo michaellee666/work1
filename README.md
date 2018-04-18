@@ -32,7 +32,13 @@
   ![](https://github.com/michaellee666/work1/blob/master/e1.png)  
   ![](https://github.com/michaellee666/work1/blob/master/c.png)
   ![](https://github.com/michaellee666/work1/blob/master/c1.png)  
-  
+#### 绘制盒图  
+  使用`boxplot()`函数，绘制盒图，，对离群值进行识别  
+  ![](https://github.com/michaellee666/work1/blob/master/a2.png)
+  ![](https://github.com/michaellee666/work1/blob/master/b2.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/c2.png)
+  ![](https://github.com/michaellee666/work1/blob/master/d2.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/e2.png)  
   
 
 
