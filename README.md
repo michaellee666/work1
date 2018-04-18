@@ -42,11 +42,10 @@
   
 ## 数据缺失的处理  
 使用`isnull().sum()`函数统计数值属性缺失值数量，有针对性的分析其缺失的原因。  
-|数值属性|缺失值数量|
-|-----------------------------|--------|
-|Existing Units|51538|
-|Proposed Units|50911|
-|Number of Proposed Stories|42868|
-|Number of Existing Stories|42784|
-|Estimated Cost|38066|
+  ![](https://github.com/michaellee666/work1/blob/master/3.gif)  
+### 将缺失部分剔除
+使用`dropna()`函数将缺失值进行剔除，并用直方图可视化地对比新旧数据集。  
+![](https://github.com/michaellee666/work1/blob/master/n0.png)
+![](https://github.com/michaellee666/work1/blob/master/n1.png)  
+
 
