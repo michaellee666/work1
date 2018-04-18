@@ -48,9 +48,16 @@
 ![](https://github.com/michaellee666/work1/blob/master/n0.png)
 ![](https://github.com/michaellee666/work1/blob/master/n1.png)  
 ### 用最高频率值来填补缺失值
-使用`mode()`函数获取众数，使用`fillna()`函数填补缺失值。填充后的数据输出到`modefill.csv`，并用直方图可视化地对比新旧数据集。  
-![](https://github.com/michaellee666/work1/blob/master/a.png)
-![](https://github.com/michaellee666/work1/blob/master/a.png)  
+使用`mode()`函数获取众数，使用`fillna()`函数填补缺失值。填充后的数据输出到`modefill.csv`，并用直方图可视化地对比新旧数据集。  
+  ![](https://github.com/michaellee666/work1/blob/master/a.png)
+  ![](https://github.com/michaellee666/work1/blob/master/a3.png)  
+### 通过属性的相关关系来填补缺失值
+使用`corr()`函数获取数值属性相关系数。并输出到`corr.csv`文件，查看相关关系。根据相关关系进行填充。  
+![](https://github.com/michaellee666/work1/blob/master/3.gif)  
+使用`apply()`函数，对强相关属性进行填充，填充后的数据输出到`corfill.csv`，并用直方图可视化地对比新旧数据集。  
+  ![](https://github.com/michaellee666/work1/blob/master/a.png)
+  ![](https://github.com/michaellee666/work1/blob/master/a4.png)
+
 
 
 
