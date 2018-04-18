@@ -1,3 +1,4 @@
+
 析过程的报告  
 ====
 1 数据可视化和摘要
@@ -57,8 +58,8 @@
 使用`apply()`函数，对强相关属性进行填充，填充后的数据输出到`corfill.csv`，并用直方图可视化地对比新旧数据集。  
   ![](https://github.com/michaellee666/work1/blob/master/a.png)
   ![](https://github.com/michaellee666/work1/blob/master/a4.png)  
-  
-
+  
+# 图中结构为第二个数据集，第一个数据集方法基本一致，分析过程略。
 
 
 
