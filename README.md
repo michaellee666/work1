@@ -46,6 +46,12 @@
 ### 将缺失部分剔除
 使用`dropna()`函数将缺失值进行剔除，并用直方图可视化地对比新旧数据集。  
 ![](https://github.com/michaellee666/work1/blob/master/n0.png)
-![](https://github.com/michaellee666/work1/blob/master/n1.png)  
+![](https://github.com/michaellee666/work1/blob/master/n1.png)  
+### 用最高频率值来填补缺失值
+使用`mode()`函数获取众数，使用`fillna()`函数填补缺失值。填充后的数据输出到`modefill.csv`，并用直方图可视化地对比新旧数据集。  
+![](https://github.com/michaellee666/work1/blob/master/a.png)
+![](https://github.com/michaellee666/work1/blob/master/a.png)  
+
+
 
 
