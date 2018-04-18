@@ -40,5 +40,13 @@
   ![](https://github.com/michaellee666/work1/blob/master/d2.png)  
   ![](https://github.com/michaellee666/work1/blob/master/e2.png)  
   
-
+## 数据缺失的处理  
+使用`isnull().sum()`函数统计数值属性缺失值数量，有针对性的分析其缺失的原因。
+|数值属性|缺失值数量|
+|----|-----|
+|Existing Units|51538|
+|Proposed Units|50911|
+|Number of Proposed Stories|42868|
+|Number of Existing Stories|42784|
+|Estimated Cost|38066|
 
