@@ -24,7 +24,7 @@
   ![](https://github.com/michaellee666/work1/blob/master/b.png)  
   ![](https://github.com/michaellee666/work1/blob/master/a.png)
   ![](https://github.com/michaellee666/work1/blob/master/a.png)  
-  ![](https://github.com/michaellee666/work1/blob/master/a.png)
+  ![](https://github.com/michaellee666/work1/blob/master/a.png)  
   使用`qqplot(df,line='45')`绘制qq图检验数据分布是否为正态分布。  
   
 
