@@ -1,4 +1,4 @@
-分析过程的报告  
+析过程的报告  
 ====
 1 数据可视化和摘要
 ------ 
@@ -20,12 +20,19 @@
 #### 绘制直方图  
   导入`matplotlib.pyplot`模块，用于数据可视化。导入`statsmodels.api`统计分析库，用于用qq图检验其分布。  
   使用`hist(bins = XX)`函数，绘制直方图。  
-  ![](https://github.com/michaellee666/work1/blob/master/a.png)
-  ![](https://github.com/michaellee666/work1/blob/master/b.png)  
-  ![](https://github.com/michaellee666/work1/blob/master/d.png)
-  ![](https://github.com/michaellee666/work1/blob/master/e.png)  
-  ![](https://github.com/michaellee666/work1/blob/master/c.png)  
+
   使用`qqplot(df,line='45')`绘制qq图检验数据分布是否为正态分布。  
+  ![](https://github.com/michaellee666/work1/blob/master/a.png)
+  ![](https://github.com/michaellee666/work1/blob/master/a1.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/b.png)
+  ![](https://github.com/michaellee666/work1/blob/master/b1.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/d.png)
+  ![](https://github.com/michaellee666/work1/blob/master/d1.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/e.png)
+  ![](https://github.com/michaellee666/work1/blob/master/e1.png)  
+  ![](https://github.com/michaellee666/work1/blob/master/c.png)
+  ![](https://github.com/michaellee666/work1/blob/master/c1.png)  
+  
   
 
 
